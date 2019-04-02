@@ -1,0 +1,245 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [{
+        "source": {
+            "id": "infobae",
+            "name": "Infobae"
+        },
+        "author": "Desirée Jaimovich",
+        "title": "Cómo es la nueva app que promete una conexión más rápida y segura - Infobae America",
+        "description": "Cloudflare lanzó una VPN llamada Warp que estará integrada a su servicio de DNS 1.1.1.1, que está disponible para iOS y Android. Promete privacidad y menos demoras a la hora de navegar en la web",
+        "url": "https://www.infobae.com/america/tecno/2019/04/02/como-es-la-nueva-app-que-promete-una-conexion-mas-rapida-y-segura/",
+        "urlToImage": "https://www.infobae.com/new-resizer/OrfqhnzI2Yy5h_GspK_3dMPZ8fw=/1200x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/08/16150658/celulares-pareja-2.jpg",
+        "publishedAt": "2019-04-02T18:00:55Z",
+        "content": "El año pasado Cloudflare lanzó su DNS 1.1.1.1 que prometía una experiencia de navegación más veloz y privada. Ahora, la compañía anunció la incorporación de un servicio de VPN llamado Warp, que está integrada a esa aplicación. Qué es el DNS El DNS es el siste… [+2606 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hipertextual.com"
+        },
+        "author": "Nicolás Rivera",
+        "title": "La biografía de Tim Cook revela la batalla judicial entre el FBI y Apple por el caso de San Bernardino - Hipertextual",
+        "description": "La biografía de Tim Cook, que llegará a las tiendas el próximo 16 de abril, revela más detalles sobre la batalla entre Apple y el FBI en torno a las puertas traseras.",
+        "url": "https://hipertextual.com/2019/04/biografia-tim-cook-revela-batalla-judicial-fbi-apple-creacion-puertas-traseras",
+        "urlToImage": "https://img-cdn.hipertextual.com/files/2018/05/Apple_Chicago_wrapup_Tim_Cook_welcomes_Keynote_audience_to_Lane_Tech_College_Preparatory_High_School_03272018.jpg?strip=all&lossy=1&quality=60&ssl=1",
+        "publishedAt": "2019-04-02T17:08:36Z",
+        "content": "El próximo 16 de abril llegará a las tiendas la biografía de Leander Kahney sobre Tim Cook, el CEO de Apple. El libro, que se centra en la evolución de la compañía desde que Cook tomó el mando en 2011, revela, entre otras cosas, cómo la compañía vivió las sem… [+2370 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Clarin.com"
+        },
+        "author": "Clarín.com",
+        "title": "Denunció que fue violada en la calle pero las cámaras de seguridad de un shopping mostraron la verdad - Clarín.com",
+        "description": "La joven se presentó ante las autoridades y relató un supuesto episodio de violación. Cuando la policía investigó descubrió lo que realmente había pasado.",
+        "url": "https://www.clarin.com/sociedad/denuncio-violada-calle-camaras-seguridad-shopping-mostraron-verdad_0_VjFTSudcO.html",
+        "urlToImage": "https://images.clarin.com/2019/03/30/uMt7s1qgl_1200x630__1.jpg",
+        "publishedAt": "2019-04-02T16:25:25Z",
+        "content": "El 24 de diciembre de 2016, Abbie Will entró en la estación de policía alterada. Encaró a uno de los oficiales y denunció una violación ocurrida dos días atrás. Aseguró que un hombre le había golpeado en la cabeza y luego la agredió sexualmente, de inmediato … [+3831 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Elperiodico.com"
+        },
+        "author": "Michele Catanzaro",
+        "title": "Francia detecta 12 modelos de móviles que superan el umbral europeo de radiaciones - El Periódico",
+        "description": "Nueve modelos de móvil, entre los 80 analizados en el 2018 por la Agencia Nacional de Frecuencias (ANFR) francesa, incumplieron la normativa europea de radiaciones. Tres más se han detectado en lo que va del 2019. La agencia y todos los expertos consultados e…",
+        "url": "https://www.elperiodico.com/es/ciencia/20190402/francia-detecta-doce-modelos-de-moviles-que-superan-el-umbral-europeo-de-radiaciones-7385500",
+        "urlToImage": "https://estaticos.elperiodico.com/resources/jpg/3/6/zentauroepp47150405-man-talks-his-phone-the-mobile-world-congress-mwc-190402145259-1554209803463.jpg",
+        "publishedAt": "2019-04-02T15:45:00Z",
+        "content": "Nueve modelos de móvil, entre los 80 analizados en el 2018 por la Agencia Nacional de Frecuencias (ANFR) francesa, incumplieron la normativa europea de radiaciones. Tres más se han detectado en lo que va del 2019. La agencia y todos los expertos consultados e… [+5815 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hipertextual.com"
+        },
+        "author": "Alberto Martín",
+        "title": "Activar el 'modo noche' de los Pocophone en cualquier Android - Hipertextual",
+        "description": "Para activar el modo noche en MIUI for Poco solo tendrás que mantener presionada la pantalla en una parte vacía del escritorio y acceder a ajustes.",
+        "url": "https://hipertextual.com/2019/04/modo-noche-pocophone",
+        "urlToImage": "https://img-cdn.hipertextual.com/files/2018/09/Pocophone-F1-2.jpg?strip=all&lossy=1&quality=60&ssl=1",
+        "publishedAt": "2019-04-02T15:32:20Z",
+        "content": "Uno de los aspectos más interesantes de la llegada de Pocophone fue, sin duda, la puesta a disposición de los usuarios el launcher que la compañía utiliza en su marca secundaria a través de la Play Store, para todos aquellos que quieran dar un aspecto diferen… [+1004 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Eltiempo.com"
+        },
+        "author": "Tecnósfera",
+        "title": "Cuatro cosas que tal vez no sabía que podía hacer en Google Maps - El Tiempo",
+        "description": "Desde organizar planes y jugar 'culebrita', hasta calcular rutas y guardar lugares.",
+        "url": "https://www.eltiempo.com/tecnosfera/tutoriales-tecnologia/cuatro-cosas-que-tal-vez-no-sabia-que-podia-hacer-en-google-maps-343998",
+        "urlToImage": "https://www.eltiempo.com/files/og_paste_img/uploads/2017/12/11/5a2ec34c24005.jpeg",
+        "publishedAt": "2019-04-02T15:28:16Z",
+        "content": "Google Maps, el servicio de mapas de Alphabet (filial de Google) desde su lanzamiento en 2005 ha añadido una gran cantidad de funciones. Incluso, se ha vuelto parte clave en la celebración del April Fools (día de los inocentes en Estados Unidos), pues este añ… [+2698 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Clarin.com"
+        },
+        "author": "Clarín.com",
+        "title": "Lanzaron el Nokia X71: características del teléfono con triple cámara y pantalla perforada - Clarín.com",
+        "description": "El nuevo exponente de la marca finlandesa entre los equipos de gama media. Conocelo.",
+        "url": "https://www.clarin.com/tecnologia/lanzaron-nokia-x71-caracteristicas-telefono-triple-camara-pantalla-perforada_0_A5T0oqENs.html",
+        "urlToImage": "https://images.clarin.com/2019/03/29/OOy2FCGRm_1200x630__1.jpg",
+        "publishedAt": "2019-04-02T15:16:29Z",
+        "content": "Un nuevo protagonista se suma al competitivo mercado de teléfonos inteligentes en lo que va del año. Tras los anuncios recientes de Samsung, Huawei y Xiaomi, la compañía finlandesa HMD presentó este martes su nuevo Nokia X71 en Taiwán, un dispositivo que inco… [+1523 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "3djuegos.com"
+        },
+        "author": "Toni Piedrabuena",
+        "title": "The Elder Scrolls 6: así es la tecnología de Bethesda para crear sus mapeados - 3DJuegos",
+        "description": "Están utilizando fotogrametría “para llevar nuestra tecnología a niveles nunca alcanzados”. La fotogrametría es una tecnología que permite escanear entornos tridimensionales para llevarlos a un programa informático. No es algo inédito...",
+        "url": "https://www.3djuegos.com/noticias-ver/191493/the-elder-scrolls-6-asi-es-la-tecnologia-de-bethesda-para/",
+        "urlToImage": "https://www.3djuegos.com/juegos/13408/the_elder_scrolls_vi/fotos/ficha/the_elder_scrolls_vi-4832640.jpg?fbrefresh=1554229393",
+        "publishedAt": "2019-04-02T14:25:00Z",
+        "content": "Están utilizando fotogrametría para llevar nuestra tecnología a niveles nunca alcanzados. La fotogrametría es una tecnología que permite escanear entornos tridimensionales para llevarlos a un programa informático. No es algo inédito en la industria del videoj… [+1078 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Andro4all.com"
+        },
+        "author": "Jacinto Araque",
+        "title": "El vice-presidente de Android afirma estar probando un móvil pendiente de lanzamiento, ¿Google Pixel 3a a la vista? - Andro4all",
+        "description": "El vice-presidente de Android afirma estar probando un móvil pendiente de lanzamiento, ¿está el Google Pixel 3a a la vista?",
+        "url": "https://andro4all.com/2019/04/el-vice-presidente-de-android-afirma-estar-probando-un-movil-pendiente-de-lanzamiento-google-pixel-3a-a-la-vista",
+        "urlToImage": "https://andro4all.com/files/2018/11/Google-Pixel-3-trasera-white-640x480.jpg",
+        "publishedAt": "2019-04-02T14:01:00Z",
+        "content": "Llevamos un tiempo oyendo rumores sobre los Google Pixel 3a y Google Pixel 3a XL, los dos terminales baratos –o al menos más que los Pixel tradicionales– que la compañía estadounidense estaría planeando lanzar en un futuro no muy lejano, y que tendría especif… [+1792 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Elintransigente.com"
+        },
+        "author": null,
+        "title": "Aunque no lo creas, así serán los impactantes autos del futuro - El Intransigente",
+        "description": "La tecnología es capaz de todo. Cómo prepararse para los verdaderos autos del mañana.",
+        "url": "https://www.elintransigente.com/tecnologia/2019/4/2/aunque-no-lo-creas-asi-seran-los-impactantes-autos-del-futuro-552252.html",
+        "urlToImage": "https://www.elintransigente.com/u/fotografias/m/2019/4/2/f960x0-514470_514488_31.jpg",
+        "publishedAt": "2019-04-02T13:56:00Z",
+        "content": "¿Alguien sabe cómo serán los autos del futuro ? Se estima que para 2020 todos los vehículos que se produzcan estarán conectados a internet y enlazados a teléfonos celulares, pero estas tecnologías que ya están circulando son sólo el principio de los nuevos au… [+3956 chars]"
+    }, {
+        "source": {
+            "id": "infobae",
+            "name": "Infobae"
+        },
+        "author": null,
+        "title": "Hoy se cierra Google Plus: cómo descargar todos tus datos - Infobae America",
+        "description": "Un paso a paso para recibir tus fotos, videos y todo el contenido que tengas en esa plataforma que dejará de estar disponible.",
+        "url": "https://www.infobae.com/america/tecno/2019/04/02/hoy-se-cierra-google-plus-como-descargar-todos-tus-datos/",
+        "urlToImage": "https://www.infobae.com/new-resizer/B3hSW801_wpIiSdmyuBmwX3L6Wc=/1200x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2019/04/01185609/google.jpg",
+        "publishedAt": "2019-04-02T13:44:19Z",
+        "content": "A partir de hoy dejará de funcionar Google+, la red social de Googl. Tal como se venía anunciando, el servicio dejará de estar disponible. Aquí, un paso a paso para descargar la información del perfil. Para descargar todos los datos de Google+, es decir fotos… [+1284 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Androidayuda.com"
+        },
+        "author": null,
+        "title": "El Samsung Galaxy A7 (2018) empieza su actualización a Android 9 Pie - Android Ayuda",
+        "description": "El Samsung Galaxy A7 (2018) empieza su despliegue de la actualización a Android 9 Pie, en los Países Bajos ya ha llegado, pero con algún problema.",
+        "url": "https://androidayuda.com/2019/04/02/samsung-galaxy-a7-android-pie/",
+        "urlToImage": "https://androidayuda.com/app/uploads/2019/04/1-APERTURA-5.jpg",
+        "publishedAt": "2019-04-02T13:00:47Z",
+        "content": "Portada » Samsung » El Samsung Galaxy A7 (2018) empieza a actualizar a Android 9 Pie Samsung cada vez actualiza más dispositivos, no son las actualizaciones más rápidas, pero cada vez son más dispositivos de distintas gamas los que actualizan. Hace poco habla… [+2216 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Lavoz.com.ar"
+        },
+        "author": "Agencia DPA",
+        "title": "La Nasa elige las futuras viviendas para colonizar Marte: estos son los finalistas - La Voz del Interior",
+        "description": "Cada uno ya ganó una parte de la primera etapa del premio de 100.000 dólares.",
+        "url": "https://www.lavoz.com.ar/ciencia/nasa-elige-futuras-viviendas-para-colonizar-marte-estos-son-finalistas",
+        "urlToImage": "https://cdn.lavoz.com.ar/sites/default/files/styles/width_1072/public/nota_periodistica/mars-nasa_1554208558.jpg",
+        "publishedAt": "2019-04-02T12:42:00Z",
+        "content": "La Nasa seleccionó tres finalistas en un concurso de iniciativas para fabricar habitáculos impresos en 3D, destinados a establecer futuras colonias en Marte. Los equipos que compiten en el 3D-Printed Habitat Challenge de la Nasa completaron el último nivel de… [+1760 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "3djuegos.com"
+        },
+        "author": "Marcos Yasif",
+        "title": "Reino Unido gastó más que nunca en videojuegos en 2018 - 3DJuegos",
+        "description": "Solo en software, el sector generó cerca de 5.000 millones de euros en el mercado británico. La industria del videojuego sigue conformándose como una de las áreas de negocio de mayor crecimiento. Tanto es así que,...",
+        "url": "https://www.3djuegos.com/noticias-ver/191486/reino-unido-gasto-mas-que-nunca-en-videojuegos-en-2018/",
+        "urlToImage": "https://www.3djuegos.com/juegos/5920/_noticias2010_/fotos/ficha/_noticias2010_-4832531.jpg?fbrefresh=1554231070",
+        "publishedAt": "2019-04-02T12:15:00Z",
+        "content": "Solo en software, el sector generó cerca de 5.000 millones de euros en el mercado británico. Por Marcos Yasif / Actualizado 2 Abril 2019, 15:50 14 comentarios La industria del videojuego sigue conformándose como una de las áreas de negocio de mayor crecimient… [+1744 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Xatakandroid.com"
+        },
+        "author": "José García Nieto",
+        "title": "Spark, el aclamado cliente de correo electrónico de iOS, aterriza en Android de forma oficial - Xataka Android",
+        "description": "Hoy es un día triste y, a la vez, alegre. Por un lado, Google ha cerrado Inbox, su aplicación de correo electrónico inteligente. Por otro lado, y tras una larga aventura en iOS, Readdle ha lanzado Spark en Android de forma ofic...",
+        "url": "https://www.xatakandroid.com/aplicaciones-android/spark-aclamado-cliente-correo-electronico-ios-aterriza-android-forma-oficial",
+        "urlToImage": "https://i.blogs.es/e4abbf/spark-android-launch/840_560.png",
+        "publishedAt": "2019-04-02T12:00:00Z",
+        "content": "Hoy es un día triste y, a la vez, alegre. Por un lado, Google ha cerrado Inbox, su aplicación de correo electrónico inteligente. Por otro lado, y tras una larga aventura en iOS, Readdle ha lanzado Spark en Android de forma oficial. Para el que no lo conozca, … [+3274 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ambito.com"
+        },
+        "author": "ámbito.com",
+        "title": "Un comprador misterioso hizo disparar el bitcoin: tocó máximo en cinco meses - ámbito.com",
+        "description": "La criptomoneda llegó a subir un 20 por ciento en las operaciones asiáticas, superando los u$s 5.000 por vez primera desde mediados de noviembre.",
+        "url": "https://m.ambito.com/un-comprador-misterioso-hizo-disparar-el-bitcoin-toco-maximo-5-meses-n5024133",
+        "urlToImage": "https://media.ambito.com/adjuntos/239/imagenes/036/032/0036032594.jpg",
+        "publishedAt": "2019-04-02T11:59:00Z",
+        "content": "La criptomoneda llegó a subir un 20 por ciento en las operaciones asiáticas, superando los u$s 5.000 por vez primera desde mediados de noviembre. Más adelante, operaba en torno a los u$s 4.700, un alza del 15 por ciento, su mayor ganancia diaria desde abril d… [+1243 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Cointelegraph.com"
+        },
+        "author": "Ana Berman",
+        "title": "BTC alcanza los USD 4.800 por primera vez en 2019, los principales criptomercados muestran un crecimiento de dos dígitos - Cointelegraph en Español",
+        "description": "Bitcoin alcanza brevemente los USD 4.800, se mantiene en USD 4.600, mientras que las demás monedas principales están todas en verde en medio de un importante ascenso de los mercados.",
+        "url": "https://es.cointelegraph.com/news/btc-hits-4-800-for-the-first-time-in-2019-top-crypto-markets-see-double-digit-growth",
+        "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yNGE1NDZjNjBlNmNiNGRiNjQ4ZWQ3OTA4MWZiNjkxZS5qcGc=.jpg",
+        "publishedAt": "2019-04-02T11:58:55Z",
+        "content": null
+    }, {
+        "source": {
+            "id": null,
+            "name": "Yahoo.com"
+        },
+        "author": null,
+        "title": "Llega el fluido 'milagroso' que revolucionará la energía solar - Yahoo Finanzas",
+        "description": "A lo largo de la historia humana ha habido incontables culturas que veneran al sol. Pocos se imaginaban lo que realmente es. En el siglo V antes de Cristo, el filósofo Anaxágoras fue exiliado por ‘impiedad’ debido a ser el primero en sugerir que el sol y las …",
+        "url": "https://es-us.finanzas.yahoo.com/noticias/llega-el-fluido-milagroso-que-revolucionara-la-energia-solar-114445956.html",
+        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/z.SSoEQdwG8FmLyqmySWBQ--~B/aD01NzczO3c9ODY2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/88023578fafe0bb3c39454c14dd835bd",
+        "publishedAt": "2019-04-02T11:44:00Z",
+        "content": "A lo largo de la historia humana ha habido incontables culturas que veneran al sol. Pocos se imaginaban lo que realmente es. En el siglo V antes de Cristo, el filósofo Anaxágoras fue exiliado por impiedad debido a ser el primero en sugerir que el sol y las es… [+4851 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Javier Pastor",
+        "title": "Bitcoin sube un 17% por sorpresa y todo ha podido deberse a una inocentada - Xataka",
+        "description": "Ayer se celebró en Estados Unidos el llamado April Fools', el que equivaldría a nuestro día de los Santos Inocentes. Es habitual encontrar en diversos medios noticias exageradas y bromas sobre todo tipo de temáticas, y una de e...",
+        "url": "https://www.xataka.com/criptomonedas/bitcoin-sube-17-sorpresa-todo-ha-podido-deberse-a-inocentada",
+        "urlToImage": "https://i.blogs.es/f98a68/bc/840_560.jpg",
+        "publishedAt": "2019-04-02T11:42:00Z",
+        "content": "Ayer se celebró en Estados Unidos el llamado April Fools', el que equivaldría a nuestro día de los Santos Inocentes. Es habitual encontrar en diversos medios noticias exageradas y bromas sobre todo tipo de temáticas, y una de ellas puede haber causado un efec… [+2016 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Adslzone.net"
+        },
+        "author": "Roberto Adeva",
+        "title": "Cómo enviar un mensaje de WhatsApp sin tocar el móvil con las manos - ADSLZone",
+        "description": "Sin duda, WhatsApp se ha convertido en el medio de comunicación más utilizado en gran parte del mundo. Y es que la mayoría de usuarios, prefieren enviar un mensaje de WhatsApp antes de hacer una llamada de teléfono. Sin embargo, hay en ocasiones que esto nos …",
+        "url": "https://www.adslzone.net/whatsapp/enviar-mensaje-sin-tocar-movil/",
+        "urlToImage": "https://www.adslzone.net/app/uploads/2019/04/whatsappaper.jpg",
+        "publishedAt": "2019-04-02T11:32:13Z",
+        "content": "Sin duda, WhatsApp se ha convertido en el medio de comunicación más utilizado en gran parte del mundo. Y es que la mayoría de usuarios, prefieren enviar un mensaje de WhatsApp antes de hacer una llamada de teléfono. Sin embargo, hay en ocasiones que esto nos … [+2807 chars]"
+    }]
+}
